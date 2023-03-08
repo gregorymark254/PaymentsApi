@@ -1,5 +1,5 @@
 {
-  "name": "bookshop-backend",
+  "name": "payment-api",
   "version": "1.0.0",
   "description": "backend server",
   "main": "server.js",
